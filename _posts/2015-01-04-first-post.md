@@ -1,6 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Verbil
 ---
 
-This is my first post, how exciting!
+Due to contractual obligations in our work otherwise, Verbil is not currently under development. We removed it from App Store last summer, but then had requests to restore it, so we did. But we made it free because we cannot guarantee that we'll ever be able to support it.
+
+Still, many, many people still use it every day, and it has crashed for just one user in the last calendar year. (Be a little careful when you input verses for automatic creation of vocabulary lists.) And no one has reported any bugs that we haven't fixed in v1.1.1.
+
+You can [get it on the App Store here](), or [read more about it here]().
