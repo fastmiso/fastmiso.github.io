@@ -38,7 +38,7 @@ navbar-links:
 author:
   name: Fast Miso Software
   email: "hello@fastmiso.com"
-  twitter: @fastmiso   # eg. daattali
+  twitter: fastmiso   # eg. daattali
  
 # Select which links to show in the footer
 footer-links-active:
