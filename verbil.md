@@ -92,7 +92,7 @@ Verbil has several features to help you study for the Latin AP exam. Generate ra
 
 <img style="float: left;" src="/img/verbil-mini-more.png" hspace="10">
 
-A translation, a complete grammar, and more. Take a look at our <a href=" http://www.fastmiso.com/verbil-ipad-release-notes/ ">release notes</a> to find out more about Verbil's many features.
+A translation, a complete grammar, and more. Take a look at our release notes for v1.0 below to learn more about Verbil's many features.
 
 <br/>
 
