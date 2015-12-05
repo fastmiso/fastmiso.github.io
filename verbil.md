@@ -104,7 +104,7 @@ A translation, a complete grammar, and more. Take a look at our release notes fo
 
 > I've been using this app since it came out. I project it up on the whiteboard so students have a clean text to work with. I've also encouraged my students to purchase it for their own use. The really enjoy the ability to flag specific lines, take "in-line" notes and make notations, and how quickly and easily they can make specific vocab lists. I can't recommend this app enough!
 
-- [&#9733;&#9733;&#9733;&#9733;&#9733;](https://itunes.apple.com/us/reviews?userProfileId=112855345), 
+- [&#9733;&#9733;&#9733;&#9733;&#9733;](https://itunes.apple.com/us/reviews?userProfileId=112855345)
 
 > I use this app every single day in my ap latin class and it's such a wonderful tool. The best part to for me is definitely the in app dictionary! Highly highly recommended for anyone studying Vergil.
 
